@@ -2,7 +2,7 @@
 Coffee shop rest api withing spring boot
 
 
-Import back up file
+Import back up file(daddys_coffee_shop_db.sql)
 
 then config the application.properties file in spring boot application
 now you can run the application.
